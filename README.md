@@ -1,10 +1,14 @@
 O projeto Cordel Moderno, é um site dedicado à divulgação e avaliação dos cordéis do poeta Milton Duarte.
 
-🪧 Vitrine.Dev	
+ Vitrine.Dev
+ 
 ✨ Nome	Cordel Moderno
+
 🏷️ Tecnologias	HTML, CSS
+
 🚀 URL	https://brenojames.github.io/projeto-cordel/
 ![image](https://github.com/user-attachments/assets/0f598539-f3ef-4e66-a3aa-8115e3ae1063)
+
 
 Detalhes do projeto
 O projeto Cordel Moderno, tem como objetivo apresentar e celebrar os cordéis do renomado poeta Milton Duarte. Milton Duarte é um talentoso escritor e cordelista, conhecido por suas narrativas únicas e cativantes, que mesclam tradição e modernidade.
